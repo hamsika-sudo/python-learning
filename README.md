@@ -5,3 +5,4 @@ Topics completed:
 -Data Types
 -Operators
 -Basic programs
+-Type casting
