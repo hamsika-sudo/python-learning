@@ -6,3 +6,4 @@ Topics completed:
 -Operators
 -Basic programs
 -Type casting
+-conditional statemnets
