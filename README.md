@@ -7,3 +7,4 @@ Topics completed:
 -Basic programs
 -Type casting
 -conditional statemnets
+-loops
